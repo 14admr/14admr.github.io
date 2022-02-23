@@ -3,7 +3,7 @@ table {
     font-size: xx-large;
     border-collapse: collapse;
     width: 100%;
-    height: 100%;
+    vertical-align: middle;
 }
 
 td {
